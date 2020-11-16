@@ -1,6 +1,7 @@
 README
 
 DESCRIPTION
+
 This program should be used to analyze gene expression data generated using the MERFISH technique and analysis found at https://github.com/ZhuangLab/MERFISH_analysis. The
 user can then choose to perform 
 
