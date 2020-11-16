@@ -2,13 +2,15 @@ README
 
 DESCRIPTION
 
-This program should be used to analyze gene expression data generated using the MERFISH technique and analysis found at https://github.com/ZhuangLab/MERFISH_analysis. The
-user can then choose to perform 
+This program should be used to analyze gene expression data generated using the MERFISH technique and analysis found at https://github.com/ZhuangLab/MERFISH_analysis. Once
+this has been done, the user can then choose to perform hierarichal latent tree analysis (HLTA), clustering, the RIPPER algorithm, the random forest algorithm, a neural
+network, or gene expression analysis.
 
 
 INSTALLATION
 
 Dependencies: Python 3.7 or greater, bokeh, joblib, matplotlib, networkx, numpy, pandas, pickle, scipy, seaborn, sklearn, wittgensen.
+
 Steps: Download my_gene_analyzer.zip and extract into my_gene_analyzer directory.
 
 
