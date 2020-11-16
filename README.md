@@ -5,13 +5,18 @@ DESCRIPTION
 This program should be used to analyze gene expression data generated using the MERFISH technique and analysis found at https://github.com/ZhuangLab/MERFISH_analysis. The
 user can then choose to perform 
 
+
 INSTALLATION
+
 Dependencies: Python 3.7 or greater, bokeh, joblib, matplotlib, networkx, numpy, pandas, pickle, scipy, seaborn, sklearn, wittgensen.
 Steps: Download my_gene_analyzer.zip and extract into my_gene_analyzer directory.
 
+
 EXECUTION
+
 From the my_gene_analyzer directory, use the linux command:
      bokeh serve --show main.py
+
 
 DEMO VIDEO
 
