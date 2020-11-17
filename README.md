@@ -1,20 +1,20 @@
-README
+# README
 
-DESCRIPTION
+## DESCRIPTION
 
 This program should be used to analyze gene expression data generated using the MERFISH technique and analysis found at https://github.com/ZhuangLab/MERFISH_analysis. Once
 this has been done, the user can then choose to perform hierarichal latent tree analysis (HLTA), clustering, the RIPPER algorithm, the random forest algorithm, a neural
 network, or gene expression analysis.
 
 
-INSTALLATION
+## INSTALLATION
 
 Dependencies: Python >=3.7, bokeh, joblib, matplotlib, networkx, numpy, pandas >=1.1.3, pickle, scipy >=1.5.2, seaborn >=0.9.0, sklearn, wittgensen.
 
 Steps: Download my_gene_analyzer.zip and extract into my_gene_analyzer directory.
 
 
-EXECUTION
+## EXECUTION
 
 From the my_gene_analyzer directory, use the linux command:
      bokeh serve --show main.py
@@ -41,4 +41,5 @@ processed through the Zhuang lab MERFISH analysis (https://github.com/ZhuangLab/
 +---------+-----------+------------+------------------+--------+------------+------------+-------------+-------------------+----------+
 
 
-DEMO VIDEO
+## DEMO VIDEO
+The following video briefly details installation and setup.
