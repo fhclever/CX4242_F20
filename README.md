@@ -9,7 +9,8 @@ network, or gene expression analysis.
 
 ## INSTALLATION
 
-Dependencies: Python >=3.7, bokeh, joblib, matplotlib, networkx, numpy, pandas >=1.1.3, pickle, scipy >=1.5.2, seaborn >=0.9.0, sklearn, wittgensen.
+Dependencies: Python >=3.7, bokeh >=2.2.3, joblib >=0.15.1, matplotlib >=1.1.3, networkx >=2.5, numpy >=1.17.2, pandas >=1.1.3, pickle >=0.7.5, scipy >=1.5.2, 
+seaborn >=0.9.0, sklearn >=0.0, wittgensen >=0.2.3.
 
 Steps: Download my_gene_analyzer.zip and extract into my_gene_analyzer directory.
 
