@@ -9,7 +9,7 @@ network, or gene expression analysis.
 
 INSTALLATION
 
-Dependencies: Python 3.7 or greater, bokeh, joblib, matplotlib, networkx, numpy, pandas, pickle, scipy, seaborn, sklearn, wittgensen.
+Dependencies: Python >=3.7, bokeh, joblib, matplotlib, networkx, numpy, pandas >=1.1.3, pickle, scipy >=1.5.2, seaborn >=0.9.0, sklearn, wittgensen.
 
 Steps: Download my_gene_analyzer.zip and extract into my_gene_analyzer directory.
 
@@ -32,5 +32,5 @@ This will run a main.py file I have in there, which opens up my code. I think th
 continually call different python files. Only thing I haven't accounted for yet is how the user chooses which file they want to use. Right now it is hard coded into both my code
 and Michael's.
 
-@Raghav, since you've put everything together and know how you've made things run, can you put together the readme as well? Or is that something we could do for you?
+Or is that something we could do for you?
 Notes on final code: Don't think we really need that helper.py file. Also don't think we need matplotlib if we are directly using bokeh - other's should confirm.
