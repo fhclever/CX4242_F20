@@ -24,7 +24,7 @@ processed through the Zhuang lab MERFISH analysis (https://github.com/ZhuangLab/
 
 +---------+-----------+------------+------------------+--------+------------+------------+-------------+-------------------+----------+
 
-| Cell_ID | Animal_ID | Animal_sex | Behavior         | Bregma | Centroid_X | Centroid_Y | Cell_class  | Neuron_cluster_ID | Gene 1   |
+| **Cell_ID | Animal_ID | Animal_sex | Behavior         | Bregma | Centroid_X | Centroid_Y | Cell_class  | Neuron_cluster_ID | Gene 1**   |
 
 +---------+-----------+------------+------------------+--------+------------+------------+-------------+-------------------+----------+
 
