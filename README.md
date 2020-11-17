@@ -19,7 +19,8 @@ EXECUTION
 From the my_gene_analyzer directory, use the linux command:
      bokeh serve --show main.py
      
-Upon opening the program, a sample data set will already be loaded, but there is a home page where you may upload your own data to look at. The data should have been processed through the Zhuang lab MERFISH analysis (https://github.com/ZhuangLab/MERFISH_analysis) first, producing a file formated as bellow:
+Upon opening the program, a sample data set will already be loaded, but there is a home page where you may upload your own data to look at. The data should have been
+processed through the Zhuang lab MERFISH analysis (https://github.com/ZhuangLab/MERFISH_analysis) first, producing a file formated as bellow:
 
 +---------+-----------+------------+------------------+--------+------------+------------+-------------+-------------------+--------+----------+----------+
 
