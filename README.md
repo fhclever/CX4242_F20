@@ -4,7 +4,7 @@
 
 This program should be used to analyze gene expression data generated using the MERFISH technique and analysis found at https://github.com/ZhuangLab/MERFISH_analysis. Once
 this has been done, the user can then choose to perform hierarichal latent tree analysis (HLTA), clustering, the RIPPER algorithm, the random forest algorithm, a neural
-network, or gene expression analysis.
+network, or gene expression analysis. We provide a sample data set, but the full data set (1GB) is available here: https://datadryad.org/stash/dataset/doi:10.5061/dryad.8t8s248.
 
 
 ## INSTALLATION
