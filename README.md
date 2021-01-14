@@ -12,7 +12,8 @@ network, or gene expression analysis. We provide a sample data set, but the full
 Dependencies: Python >=3.7, bokeh >=2.2.3, joblib >=0.15.1, matplotlib >=1.1.3, networkx >=2.5, numpy >=1.17.2, pandas >=1.1.3, pickle >=0.7.5, scipy >=1.5.2, 
 seaborn >=0.9.0, sklearn >=0.0, wittgensen >=0.2.3.
 
-Steps: Download MARC.zip and extract into MARC directory.
+Steps: Download MARC.zip (located within https://drive.google.com/file/d/1BirFalNv27lNrSbOwis0vNWQWufWBIPe/view?usp=sharing then the CODE directory) and
+extract into MARC directory in your desired location.
 
 
 ## EXECUTION
