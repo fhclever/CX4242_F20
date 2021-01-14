@@ -43,3 +43,4 @@ predictions on the cell class of the user's input and will then produce an outpu
 
 ## DEMO VIDEO
 The following video briefly details installation and setup.
+http://youtu.be/fPyaCCEMa1w?hd=1
