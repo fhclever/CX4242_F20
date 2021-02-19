@@ -1,4 +1,5 @@
 # README
+Please note that our code was very large and was thus uploaded to the drive link under "Installation" rather than on this Github page.
 
 ## DESCRIPTION
 
