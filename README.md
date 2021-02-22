@@ -1,5 +1,5 @@
 # README
-Please note that our code was very large and was thus uploaded to the drive link under "Installation" rather than on this Github page.
+Please note that our code was very large and was thus uploaded to this Google drive folder: https://drive.google.com/file/d/1BirFalNv27lNrSbOwis0vNWQWufWBIPe/view?usp=sharing. Demo video can be viewed here: http://youtu.be/fPyaCCEMa1w?hd=1.
 
 ## DESCRIPTION
 
